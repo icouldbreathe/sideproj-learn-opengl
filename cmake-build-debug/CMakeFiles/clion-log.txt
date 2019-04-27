@@ -1,4 +1,0 @@
-"/Applications/CLion 2019.1 EAP.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/dovydas/gitprojects/prototype
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/dovydas/gitprojects/prototype/cmake-build-debug

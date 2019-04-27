@@ -1,4 +1,0 @@
-/Users/dovydas/gitprojects/prototype/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/dovydas/gitprojects/prototype/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/dovydas/gitprojects/prototype/cmake-build-debug/CMakeFiles/glad.dir
-/Users/dovydas/gitprojects/prototype/cmake-build-debug/CMakeFiles/prototype.dir
