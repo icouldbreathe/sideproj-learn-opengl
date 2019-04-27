@@ -1,1 +1,1 @@
-# sideproj-learn-opengl
+# Side Project for learning OpenGL and Graphics programming
